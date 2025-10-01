@@ -4,3 +4,6 @@ members = [
     "sys",
     "bindgen",
 ]
+
+[dependencies]
+bindgen = "0.69"
